@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.products-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.liked-products {
+  margin-top: 40px;
+}
